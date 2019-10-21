@@ -184,12 +184,14 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
+    "antd": "^3.23.2",
     "electron-debug": "^1.1.0",
     "extract-text-webpack-plugin": "^2.1.0",
     "font-awesome": "^4.7.0",
     "history": "^4.6.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-highlight-words": "^0.16.0",
     "react-hot-loader": "3.0.0-beta.6",
     "react-redux": "^5.0.4",
     "react-router": "^4.1.1",
